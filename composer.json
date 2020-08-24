@@ -1,5 +1,5 @@
 {
-    "name": "kolab/kolab_2fa",
+    "name": "skiner68/kolab_2fa",
     "type": "roundcube-plugin",
     "description": "Kolab 2-Factor Authentication",
     "homepage": "https://git.kolab.org/diffusion/RPK/",
