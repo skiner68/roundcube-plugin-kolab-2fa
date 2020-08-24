@@ -21,8 +21,8 @@
     "require": {
         "php": ">=7.1.2",
         "roundcube/plugin-installer": ">=0.1.3",
-        "spomky-labs/otphp": "~9.1.1",
-        "endroid/qr-code": "~3.4.4",
-        "enygma/yubikey": "~3.3"
+        "spomky-labs/otphp": "9.1.1",
+        "endroid/qr-code": "3.4.4",
+        "enygma/yubikey": "3.3"
     }
 }
